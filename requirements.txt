@@ -1,4 +1,6 @@
 Flask
 numpy
+pickle
+json
 Gunicorn
 flask-cors
